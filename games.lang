@@ -1,0 +1,64 @@
+# ============================================
+# CONFIGURACIÓN DE JUEGOS - TCheers
+# ============================================
+# Este archivo usa el lenguaje intermedio games-lang
+# Es mucho más simple y seguro que JSON
+#
+# FORMATO:
+# -------
+# # Esto es un comentario (se ignora)
+# juego: NOMBRE_DEL_JUEGO | ICONO | URL
+#
+# EJEMPLO:
+# juego: Multiplicaciones | multiplicar | https://ejemplo.com/
+#
+# ICONOS DISPONIBLES (puedes usar nombres amigables):
+# ----------------------------------------------------
+# multiplicar, restar, sumar, calcular, dinero
+# musica, mapa, emocion, ahorcado, refran
+# letra, deletrear, libro, pregunta, sopa, comida
+# memoria, juego, estrella, futbol, casino
+# puzzle, escuela, pincel, microfono, avion
+# coche, mascota, pastel, fiesta
+#
+# O también los nombres técnicos de Material Icons
+# ============================================
+
+version: 1.0
+descripcion: Lista de juegos para TCheers
+actualizado: 2026-04-01
+
+# --- JUEGOS DE MATEMÁTICAS ---
+juego: Multiplicaciones | multiplicar | https://multiplicaciones.acciotvservernoticias.com/
+juego: Restas | restar | https://restas.acciotvservernoticias.com/
+juego: Sumas | sumar | https://sumas.acciotvservernoticias.com/
+juego: Cuenta el dinero 1 | dinero | https://cuenta-el-dinero-1.acciotvservernoticias.com/
+juego: Cuenta el dinero 2 | dinero | https://cuenta-el-dinero-2.acciotvservernoticias.com/
+
+# --- JUEGOS DE TRIVIA ---
+juego: Adivina el cantante | musica | https://adivina-el-cantante.acciotvservernoticias.com/
+juego: Adivina el sitio | mapa | https://adivina-el-sitio.acciotvservernoticias.com/
+juego: Ahorcado refranero 1 | ahorcado | https://ahorcado-refranero-1.acciotvservernoticias.com/
+juego: Ahorcado refranero 2 | ahorcado | https://ahorcado-refranero-2.acciotvservernoticias.com/
+juego: Refranes | refran | https://refranes.acciotvservernoticias.com/
+
+# --- JUEGOS DE LETRAS Y PALABRAS ---
+juego: Deletrea 1 | deletrear | https://deletrea-1.acciotvservernoticias.com/
+juego: Deletrea 2 | deletrear | https://deletrea-2.acciotvservernoticias.com/
+juego: Encruce | letra | https://encruce.acciotvservernoticias.com/
+
+# --- JUEGOS DE COMIDA ---
+juego: Ordena la comida | comida | https://ordena-la-comida.acciotvservernoticias.com/
+juego: Relaciona la comida 1 | comida | https://relaciona-la-comida-1.acciotvservernoticias.com/
+juego: Relaciona la comida 2 | comida | https://relaciona-la-comida-2.acciotvservernoticias.com/
+
+# --- SOPAS DE LETRAS ---
+juego: Sopa de letras ciudades | sopa | https://sopa-de-letras-ciudades.acciotvservernoticias.com/
+juego: Sopa de letras comida 1 | sopa | https://sopa-de-letras-comida-1.acciotvservernoticias.com/
+juego: Sopa de letras comida 2 | sopa | https://sopa-de-letras-comida-2.acciotvservernoticias.com/
+
+# --- MEMORIA ---
+juego: Memoria visual | memoria | https://memoria-visual.acciotvservernoticias.com/
+
+# --- PREGUNTAS Y RESPUESTAS ---
+juego: Preguntas variadas | pregunta | https://refranes.acciotvservernoticias.com/
