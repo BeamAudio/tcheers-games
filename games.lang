@@ -38,7 +38,7 @@ juego: Cuenta el dinero 2 | dinero | https://cuenta-el-dinero-2.acciotvservernot
 # --- JUEGOS DE TRIVIA ---
 juego: Adivina el cantante | musica | https://adivina-el-cantante.acciotvservernoticias.com/
 juego: Adivina el sitio | mapa | https://adivina-el-sitio.acciotvservernoticias.com/
-juego: Adivina la emoción | emocion | https://wordwall.net/es/embed/90f21dd35acb4776a81acee4e90389de?themeId=53&templateId=5&fontStackId=0
+juego: Adivina la emocion | emocion | https://wordwall.net/es/embed/90f21dd35acb4776a81acee4e90389de?themeId=53&templateId=5&fontStackId=0
 juego: Ahorcado refranero 1 | ahorcado | https://ahorcado-refranero-1.acciotvservernoticias.com/
 juego: Ahorcado refranero 2 | ahorcado | https://ahorcado-refranero-2.acciotvservernoticias.com/
 juego: Refranes | refran | https://refranes.acciotvservernoticias.com/
@@ -48,7 +48,7 @@ juego: Deletrea 1 | deletrear | https://deletrea-1.acciotvservernoticias.com/
 juego: Deletrea 2 | deletrear | https://deletrea-2.acciotvservernoticias.com/
 juego: Encruce | letra | https://encruce.acciotvservernoticias.com/
 juego: Pasapalabra Ruleta | letra | https://wordwall.net/es/embed/5370ada433814d9990f3090cd8d67175?themeId=1&templateId=8&fontStackId=0/
-juego: Verdadero o Falso en Ruleta | pregunta | https://wordwall.net/es/embed/5758f5f38d81426abcf73e914276bb97?themeId=26&templateId=8&fontStackId=0
+juego: Verdadero o Falso en Ruleta | letra | https://wordwall.net/es/embed/5758f5f38d81426abcf73e914276bb97?themeId=26&templateId=8&fontStackId=0
 
 # --- JUEGOS DE COMIDA ---
 juego: Ordena la comida | comida | https://ordena-la-comida.acciotvservernoticias.com/
